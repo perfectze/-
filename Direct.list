@@ -13,6 +13,10 @@ DOMAIN-SUFFIX,xunfei.cn
 DOMAIN-SUFFIX,voicecloud.cn
 DOMAIN-SUFFIX,iflytek.com
 DOMAIN-SUFFIX,xfyun.cn
+IP-CIDR,117.131.101.0/24,no-resolve
+IP-CIDR,117.131.102.0/24,no-resolve
+IP-CIDR,117.131.103.0/24,no-resolve
+IP-CIDR,117.131.104.0/24,no-resolve
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
